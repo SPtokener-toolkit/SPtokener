@@ -1,0 +1,8 @@
+.idea
+.gradle
+build
+report.txt
+tokens
+index
+code_examples
+.vscode
